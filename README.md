@@ -1,2 +1,2 @@
 # pandas-challenge
- 
+ The goal of this weeks challenge was to analyze district-wide data to be able to make strategic decision regarding future school budgets and priorties. We were given two .csv files to analyze. From the analysis it can be seen that the charter schools have a higher percentage of students passing where as district schools have a lower overall percentage. A direct correlation between school budget and passing rate cannot be made as there are outliers in the data set. As for the comparison of school budget to success, I have not been able to correctly code the program to determine these values. 
